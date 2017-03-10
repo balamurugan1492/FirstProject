@@ -8,5 +8,6 @@ namespace SampleApplication.Class
 {
     class TempClass
     {
+        int a;
     }
 }
