@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SampleApplication.master
+namespace SampleApplication.Class
 {
-    class Master1
+    class Class1
     {
         int a;
-        int b;
     }
 }
