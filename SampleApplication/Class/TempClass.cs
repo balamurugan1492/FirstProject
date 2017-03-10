@@ -9,5 +9,6 @@ namespace SampleApplication.Class
     class TempClass
     {
         private int a;
+        private int b;
     }
 }
