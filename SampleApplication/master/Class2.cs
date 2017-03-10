@@ -8,6 +8,6 @@ namespace SampleApplication.master
 {
     class Class2
     {
-        int a;
+        
     }
 }
