@@ -8,5 +8,6 @@ namespace SampleApplication.master
 {
     class Master1
     {
+        int a;
     }
 }
