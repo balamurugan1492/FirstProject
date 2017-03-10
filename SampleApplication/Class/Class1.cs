@@ -8,5 +8,6 @@ namespace SampleApplication.Class
 {
     class Class1
     {
+        int a;
     }
 }
