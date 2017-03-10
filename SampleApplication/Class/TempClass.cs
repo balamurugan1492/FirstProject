@@ -10,5 +10,6 @@ namespace SampleApplication.Class
     {
         private int a;
         private int b;
+        private int c;
     }
 }
